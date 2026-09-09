@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/InterfacesComProposito.Api/InterfacesComProposito.Api.csproj" />
+    <Project Path="src/InterfacesComProposito.Application/InterfacesComProposito.Application.csproj" />
+    <Project Path="src/InterfacesComProposito.Domain/InterfacesComProposito.Domain.csproj" />
+    <Project Path="src/InterfacesComProposito.Infrastructure/InterfacesComProposito.Infrastructure.csproj" />
+    <Project Path="src/InterfacesComProposito.Pricing.Contracts/InterfacesComProposito.Pricing.Contracts.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/InterfacesComProposito.Api.IntegrationTests/InterfacesComProposito.Api.IntegrationTests.csproj" />
+    <Project Path="tests/InterfacesComProposito.Application.Tests/InterfacesComProposito.Application.Tests.csproj" />
+    <Project Path="tests/InterfacesComProposito.Domain.Tests/InterfacesComProposito.Domain.Tests.csproj" />
+  </Folder>
+</Solution>

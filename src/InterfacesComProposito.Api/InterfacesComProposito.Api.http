@@ -1,0 +1,6 @@
+@InterfacesComProposito.Api_HostAddress = http://localhost:5148
+
+GET {{InterfacesComProposito.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
